@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(321,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(361,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(363,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(378,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(380,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(393,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(395,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(407,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(409,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(426,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(431,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(436,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(438,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\潘致瑋\Desktop\Project1\Source.cpp(448,20): warning C4018: '<': signed/unsigned 不相符
+  Project1.vcxproj -> C:\Users\潘致瑋\Desktop\Project1\Debug\Project1.exe
